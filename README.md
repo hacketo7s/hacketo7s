@@ -6,10 +6,4 @@ Hi I am coral<br>I like Geometry Dash So much ahhahahaha<br>I can't believe how 
 ![](https://streak-stats.demolab.com/?user=hacketo7s&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hacketo7s&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hacketo7s&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=hacketo7s&icon=8&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
